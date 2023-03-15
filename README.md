@@ -1,6 +1,8 @@
 # DragonFly-Game
-up arraw -: jump
-left arrow -: move left
-right arrow -: move right
+up arraw -: jump   <br>
+
+left arrow -: move left <br>
+
+right arrow -: move right <br>
 
 <img src="view.png">
